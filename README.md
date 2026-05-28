@@ -8,12 +8,18 @@ Each day, I push at least one commit — whether it’s a small function, a full
 
 ## 🗓️ Learning Plan
 
-|  | Focus Area | Highlights |
-|-----|------------|------------|
-| 01  | Foundation | Initialised repo, planned structure |
-| 02  | Python / Java basics | Variables, loops, basic I/O |
-| 03  | Web dev & more | HTML/CSS or JavaScript practice |
-| 04  | Mixed practice | Continued exercises in Python, Java, or front‑end |
+Here is the completed summary table, extending rows 01–04 with the missing days 05–08 based on the provided documentation.
+
+|     | Focus Area                                          | Highlights                                                                                                                                      |
+|-----|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01  | Java basics – Quiz game                            | Multiple‑choice questions, input validation, instant feedback, score tracking, answer summary                                                  |
+| 02  | Java – Library management (HashMap)                | Add/borrow/return books, inventory tracking, input validation, exception handling, persistent session                                         |
+| 03  | Java OOP – Student management (encapsulation)      | Add/update/view students, duplicate ID check, static data management, menu‑driven console interface                                            |
+| 04  | Java – Arrays & ArrayLists (stock analysis)        | Average price, maximum price, occurrence count, cumulative sum, both array and ArrayList implementations                                      |
+| 05  | Java – University enrollment & grade system        | Add courses/students, enroll with capacity check, assign grades (0–100), calculate overall average, list all data, static registration counter |
+| 06  | Java – Car rental agency (interfaces, polymorphism)| Add cars/motorcycles/trucks, type‑specific attributes (doors, wheels, cargo), robust input validation, display inventory                      |
+| 07  | Java Swing GUI – Student management system         | Tabbed interface (students, enrollments, grades), CRUD operations, auto‑generated IDs, grade scale 0.0–4.0, real‑time tables and reports       |
+| 08  | Python – CLI & GUI calculator suite                | Basic arithmetic (+, -, *, /, %), division/modulo by zero handling, Tkinter dark‑theme GUI, button layout, expression evaluation               |
 
 *(I update this table as I go — each new day gets a row!)*
 
@@ -39,6 +45,8 @@ My-Learning-Journal/
 ├── Day-04/
 ├── Day-05/
 ├── Day-06/
+├── Day-07/
+├── Day-08/
 └── README.md
 ```
 
