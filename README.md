@@ -21,6 +21,8 @@ Here is the completed summary table, extending rows 01–04 with the missing day
 | 07  | Java Swing GUI – Student management system         | Tabbed interface (students, enrollments, grades), CRUD operations, auto‑generated IDs, grade scale 0.0–4.0, real‑time tables and reports       |
 | 08  | Python – CLI & GUI calculator suite                | Basic arithmetic (+, -, *, /, %), division/modulo by zero handling, Tkinter dark‑theme GUI, button layout, expression evaluation               |
 | 09  | Java Swing GUI – Library management system         | Add/delete/update books, borrow/return with quantity control, search/filter by title/author, transaction history with timestamps, persistent file storage (serialization), tabbed interface, status bar               |
+| 10 | Java Swing GUI – Car rental agency system | Tabbed interface (add car/motorcycle/truck), type-specific attributes (doors, wheels, cargo, transmission), form validation, polymorphic vehicle storage, inventory display with refresh |
+
 
 *(I update this table as I go — each new day gets a row!)*
 
@@ -49,6 +51,7 @@ My-Learning-Journal/
 ├── Day-07/
 ├── Day-08/
 ├── Day-09/
+├── Day-10/
 └── README.md
 ```
 
