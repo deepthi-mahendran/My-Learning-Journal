@@ -22,7 +22,7 @@ Here is the completed summary table, extending rows 01–04 with the missing day
 | 08  | Python – CLI & GUI calculator suite                | Basic arithmetic (+, -, *, /, %), division/modulo by zero handling, Tkinter dark‑theme GUI, button layout, expression evaluation               |
 | 09  | Java Swing GUI – Library management system         | Add/delete/update books, borrow/return with quantity control, search/filter by title/author, transaction history with timestamps, persistent file storage (serialization), tabbed interface, status bar               |
 | 10 | Java Swing GUI – Car rental agency system | Tabbed interface (add car/motorcycle/truck), type-specific attributes (doors, wheels, cargo, transmission), form validation, polymorphic vehicle storage, inventory display with refresh |
-
+| 11 | Python – TaskFlow Pro to‑do list (CustomTkinter) | Modern dark/light mode UI, add/complete/delete tasks, persistent storage (tasks.txt), real‑time status bar (total/completed/pending), scrollable task list, toggleable appearance |
 
 *(I update this table as I go — each new day gets a row!)*
 
