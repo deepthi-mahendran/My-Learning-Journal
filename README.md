@@ -8,8 +8,6 @@ Each day, I push at least one commit — whether it’s a small function, a full
 
 ## 🗓️ Learning Plan
 
-Here is the completed summary table, extending rows 01–04 with the missing days 05–08 based on the provided documentation.
-
 |     | Focus Area                                          | Highlights                                                                                                                                      |
 |-----|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | 01  | Java basics – Quiz game                            | Multiple‑choice questions, input validation, instant feedback, score tracking, answer summary                                                  |
@@ -23,6 +21,7 @@ Here is the completed summary table, extending rows 01–04 with the missing day
 | 09  | Java Swing GUI – Library management system         | Add/delete/update books, borrow/return with quantity control, search/filter by title/author, transaction history with timestamps, persistent file storage (serialization), tabbed interface, status bar               |
 | 10 | Java Swing GUI – Car rental agency system | Tabbed interface (add car/motorcycle/truck), type-specific attributes (doors, wheels, cargo, transmission), form validation, polymorphic vehicle storage, inventory display with refresh |
 | 11 | Python – TaskFlow Pro to‑do list (CustomTkinter) | Modern dark/light mode UI, add/complete/delete tasks, persistent storage (tasks.txt), real‑time status bar (total/completed/pending), scrollable task list, toggleable appearance |
+| 12 | Java – Functional programming & Stream API (Employee demo) | Function interface & lambda expressions, stream mapping/filtering/averaging/grouping, parallel stream benchmark, top 3 earners by salary, department salary analysis, method references, Optional handling |
 
 *(I update this table as I go — each new day gets a row!)*
 
@@ -52,6 +51,8 @@ My-Learning-Journal/
 ├── Day-08/
 ├── Day-09/
 ├── Day-10/
+├── Day-11/
+├── Day-12/
 └── README.md
 ```
 
