@@ -22,6 +22,7 @@ Each day, I push at least one commit — whether it’s a small function, a full
 | 10 | Java Swing GUI – Car rental agency system | Tabbed interface (add car/motorcycle/truck), type-specific attributes (doors, wheels, cargo, transmission), form validation, polymorphic vehicle storage, inventory display with refresh |
 | 11 | Python – TaskFlow Pro to‑do list (CustomTkinter) | Modern dark/light mode UI, add/complete/delete tasks, persistent storage (tasks.txt), real‑time status bar (total/completed/pending), scrollable task list, toggleable appearance |
 | 12 | Java – Functional programming & Stream API (Employee demo) | Function interface & lambda expressions, stream mapping/filtering/averaging/grouping, parallel stream benchmark, top 3 earners by salary, department salary analysis, method references, Optional handling |
+| 13 | Python – Number Guessing Game (Tkinter GUI) | Random secret number (1–100), input validation (integers only, range check), hints (too low/high/correct), attempt counter, new game reset, Enter key support, congratulatory dialog |
 
 *(I update this table as I go — each new day gets a row!)*
 
@@ -53,6 +54,7 @@ My-Learning-Journal/
 ├── Day-10/
 ├── Day-11/
 ├── Day-12/
+├── Day-13/
 └── README.md
 ```
 
