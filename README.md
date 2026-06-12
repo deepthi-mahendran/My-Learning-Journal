@@ -23,6 +23,7 @@ Each day, I push at least one commit — whether it’s a small function, a full
 | 11 | Python – TaskFlow Pro to‑do list (CustomTkinter) | Modern dark/light mode UI, add/complete/delete tasks, persistent storage (tasks.txt), real‑time status bar (total/completed/pending), scrollable task list, toggleable appearance |
 | 12 | Java – Functional programming & Stream API (Employee demo) | Function interface & lambda expressions, stream mapping/filtering/averaging/grouping, parallel stream benchmark, top 3 earners by salary, department salary analysis, method references, Optional handling |
 | 13 | Python – Number Guessing Game (Tkinter GUI) | Random secret number (1–100), input validation (integers only, range check), hints (too low/high/correct), attempt counter, new game reset, Enter key support, congratulatory dialog |
+| 14 | Python – Secure Password Generator (CustomTkinter) | Cryptographically secure passwords (secrets module), length slider (8–50), character type checkboxes (upper/lower/digits/symbols), guaranteed diversity (at least one from each selected type), copy to clipboard, dark modern GUI, input validation |
 
 *(I update this table as I go — each new day gets a row!)*
 
@@ -55,6 +56,7 @@ My-Learning-Journal/
 ├── Day-11/
 ├── Day-12/
 ├── Day-13/
+├── Day-14/
 └── README.md
 ```
 
