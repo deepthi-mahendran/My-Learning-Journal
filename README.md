@@ -24,6 +24,7 @@ Each day, I push at least one commit — whether it’s a small function, a full
 | 12 | Java – Functional programming & Stream API (Employee demo) | Function interface & lambda expressions, stream mapping/filtering/averaging/grouping, parallel stream benchmark, top 3 earners by salary, department salary analysis, method references, Optional handling |
 | 13 | Python – Number Guessing Game (Tkinter GUI) | Random secret number (1–100), input validation (integers only, range check), hints (too low/high/correct), attempt counter, new game reset, Enter key support, congratulatory dialog |
 | 14 | Python – Secure Password Generator (CustomTkinter) | Cryptographically secure passwords (secrets module), length slider (8–50), character type checkboxes (upper/lower/digits/symbols), guaranteed diversity (at least one from each selected type), copy to clipboard, dark modern GUI, input validation |
+| 15 | Python – Rock Paper Scissors (CustomTkinter)      | Three move buttons (Rock/Paper/Scissors), computer random choice, real‑time score tracking, colour‑coded winner announcement, reset score button, system‑aware dark/light mode (follows OS), fixed window size |
 
 *(I update this table as I go — each new day gets a row!)*
 
@@ -57,6 +58,7 @@ My-Learning-Journal/
 ├── Day-12/
 ├── Day-13/
 ├── Day-14/
+├── Day-15/
 └── README.md
 ```
 
