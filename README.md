@@ -26,6 +26,7 @@ Each day, I push at least one commit — whether it’s a small function, a full
 | 14 | Python – Secure Password Generator (CustomTkinter) | Cryptographically secure passwords (secrets module), length slider (8–50), character type checkboxes (upper/lower/digits/symbols), guaranteed diversity (at least one from each selected type), copy to clipboard, dark modern GUI, input validation |
 | 15 | Python – Rock Paper Scissors (CustomTkinter)      | Three move buttons (Rock/Paper/Scissors), computer random choice, real‑time score tracking, colour‑coded winner announcement, reset score button, system‑aware dark/light mode (follows OS), fixed window size |
 | 16 | Java – Text Analysis Tool (console)               | Character/word counts, most common character/word, character/word frequency analysis, unique word count, case‑insensitive analysis, punctuation removal, input validation, modular method decomposition, HashMap/HashSet usage |
+| 17 | Python – Weather App (CustomTkinter)              | City search with geocoding, real‑time weather display (temperature, humidity, wind, precipitation, pressure, cloud cover), WMO code mapping with emojis, modern dark/light mode GUI, uses free Open‑Meteo API (no key required), keyboard shortcut (Enter), error handling |
 
 *(I update this table as I go — each new day gets a row!)*
 
@@ -61,6 +62,7 @@ My-Learning-Journal/
 ├── Day-14/
 ├── Day-15/
 ├── Day-16/
+├── Day-17/
 └── README.md
 ```
 
