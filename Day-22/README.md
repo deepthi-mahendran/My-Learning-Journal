@@ -136,10 +136,10 @@ If not using a build tool, download `gson-2.10.1.jar` and add it to your classpa
 
 ### API Key Configuration
 
-The application uses the OpenWeatherMap API. An API key is already configured in `ApiConfig.java`:
+The application uses the OpenWeatherMap API. An API key should be configured in `ApiConfig.java`:
 
 ```java
-private static final String API_KEY = "9306fe874befebb3cb4359c9577d4e8e";
+private static final String API_KEY = "Your_API_Key";
 ```
 
 To use your own API key:
